@@ -1,17 +1,49 @@
-###Welcome to My Portfolio! 🎉
-Hi there! I'm Sushant Kumar Pandey, a Computer Science student at the Technical University of Lübeck. Here, you'll get a glimpse of my journey in technology, from coding to creativity, and my passion for building solutions.
+# 👨‍💻 Sushant Kumar Pandey | Portfolio
 
-A bit about me:
-Background: Originally from Nepal, I moved to Germany to pursue my studies and expand my horizons in the field of computer science. I completed my preparatory course at Hochschule Zittau/Görlitz and am now diving deep into my Bachelor’s studies.
-Tech Enthusiast: From coding in C++ and Java to working with JavaScript, HTML, and CSS, I'm always keen on learning new languages and tools.
-Creative Spirit: In my spare time, you’ll find me doing photography, writing stories, or brewing a fresh cup of coffee to fuel my ideas!
-What to Expect:
-Projects: A showcase of the coding projects I've worked on, highlighting my problem-solving abilities and love for programming.
-Skills: Proficient in programming languages like C/C++, Java, JavaScript, and more. I also have a knack for writing clean, efficient code and exploring new tech trends.
+---
 
+## 🎉 Welcome to My Portfolio!
 
-Contact: Have an exciting project or opportunity? Let’s connect! You can reach me via email or phone, and I’d love to hear from you!
-Contact Info:
-Email: Sushantkumarpandey07@gmail.com
-Phone: +49 (0) 1590 1633656
-Feel free to browse through the sections and explore what I’ve been working on!
+Hello! I’m **Sushant Kumar Pandey**, a Computer Science student at the Technical University of Lübeck, Germany. Explore my journey in technology, creativity, and problem-solving!
+
+---
+
+### 👋 About Me
+
+- **🌏 Background:**  
+  Originally from Nepal 🇳🇵, I moved to Germany 🇩🇪 to expand my horizons in computer science. I completed my preparatory course at Hochschule Zittau/Görlitz and am now immersed in my Bachelor’s studies at Lübeck.
+
+- **💻 Tech Enthusiast:**  
+  Passionate about coding in **C++**, **Java**, **JavaScript**, **HTML**, and **CSS**. Always eager to learn new languages, frameworks, and tools.
+
+- **🎨 Creative Spirit:**  
+  When not coding, you’ll find me behind a camera 📷, writing stories ✍️, or brewing a fresh cup of coffee ☕️ to spark new ideas!
+
+---
+
+### 🚀 What to Expect
+
+- **📂 Projects:**  
+  Dive into the projects I’ve built—demonstrating my problem-solving skills, technical prowess, and love for programming.
+
+- **🛠️ Skills:**  
+  - **Languages:** C/C++, Java, JavaScript, HTML, CSS, and more.
+  - **Expertise:** Writing clean, efficient code. Exploring and adapting to new tech trends.
+
+---
+
+### 📬 Contact Me
+
+Have an exciting project or opportunity? Let’s connect!
+
+- **✉️ Email:** [Sushantkumarpandey07@gmail.com](mailto:Sushantkumarpandey07@gmail.com)
+- **📱 Phone:** +49 (0) 1635155244
+
+---
+
+Feel free to browse through the sections and discover what I’ve been working on.  
+Let’s build something amazing together! 🚀
+
+---
+
+<sub>Made with by Sushant Kumar Pandey</sub>
