@@ -1,6 +1,6 @@
 # 👨‍💻 Sushant Kumar Pandey | Portfolio
 
----
+---Just downlod or clone the repository,then install requirements and go live vscode ..
 
 ## 🎉 Welcome to My Portfolio!
 
